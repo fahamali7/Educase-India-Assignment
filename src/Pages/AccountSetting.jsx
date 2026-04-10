@@ -1,6 +1,6 @@
 import React from 'react'
 import { useLocation } from 'react-router'
-import profilePic from '../assets/profile.png';
+import profilePic from '../assets/profile1.png';
 import { CameraIcon} from 'lucide-react';
 
 const AccountSetting = () => {
